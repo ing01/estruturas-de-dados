@@ -1,5 +1,5 @@
 /* Simulação de sistema de controle de uma pista de decolagem de aviões. Inserindo número de avião e exibindo: quantidade na fila, decolagem autorizada, primeiro da fila e
-lista de todos na fila *\
+lista de todos na fila */
 
 namespace Exercicio15
 {
