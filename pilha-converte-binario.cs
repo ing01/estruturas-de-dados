@@ -1,4 +1,4 @@
-// Programa que converte um número inteiro da base decimal para a base binária.
+// Algoritmo que converte um número inteiro da base decimal para a base binária.
 
 namespace exercicio8
 {

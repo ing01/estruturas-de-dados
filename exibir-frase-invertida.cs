@@ -1,4 +1,4 @@
-// Programa para reconhecer uma frase e exibi-la com as palavras invertidas.
+// Algoritmo para reconhecer uma frase e exibi-la com as palavras invertidas.
 
 namespace WindowsFormsApp2
 {
